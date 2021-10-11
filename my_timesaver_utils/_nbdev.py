@@ -15,8 +15,6 @@ index = {"PROF_DATA": "01_profiling.ipynb",
          "FASTAI_AVAILABLE": "06_misc_splitters.ipynb",
          "MyProfileCallback": "02_profiling_callback.ipynb",
          "Learner.to_my_profile": "02_profiling_callback.ipynb",
-         "parent_move_file": "03_enhanced_imageclassifiercleaner.ipynb",
-         "EnhancedImageClassifierCleaner": "03_enhanced_imageclassifiercleaner.ipynb",
          "hello_world": "04_enhanced_jmd_imagecleaner.ipynb",
          "entropy": "05_bayes_inference.ipynb",
          "uncertainty_best_probability": "05_bayes_inference.ipynb",
@@ -32,13 +30,12 @@ index = {"PROF_DATA": "01_profiling.ipynb",
 
 modules = ["profiling.py",
            "profiling_callback.py",
-           "enhanced_imageclassifiercleaner.py",
            "enhanced_jmd_imagecleaner.py",
            "bayes_inference.py",
            "misc_splitters.py"]
 
-doc_url = "https://butchland.github.io/my_timesaver_utils/"
+doc_url = "https://butchtm.github.io/my_timesaver_utils/"
 
-git_url = "https://github.com/butchland/my_timesaver_utils/tree/master/"
+git_url = "https://github.com/butchtm/my_timesaver_utils/tree/master/"
 
 def custom_doc_links(name): return None

@@ -1,11 +1,10 @@
 {
   "my_timesaver_utils": {
     "Overview": "/",
-    "Profiling": "profiling",
-    "Profiling Callback": "profiling_callback",
-    "Enhanced Image Classifier Cleaner": "enhanced_imageclassifiercleaner",
-    "Enhanced JMD Image Cleaner": "enhanced_jmd_imagecleaner",
-    "Bayes Inference ": "bayes_inference",
-    "Misc Splitters": "misc_splitters"
+    "Profiling": "profiling.html",
+    "Profiling Callback": "profiling_callback.html",
+    "Title": "enhanced_jmd_imagecleaner.html",
+    "Bayes Inference ": "bayes_inference.html",
+    "Misc Splitters": "misc_splitters.html"
   }
 }
