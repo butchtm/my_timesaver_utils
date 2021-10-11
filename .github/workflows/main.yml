@@ -11,9 +11,8 @@ jobs:
         architecture: 'x64'
     - name: Install the library
       run: |
-        pip install nbdev jupyter
+        pip install nbdev jupyter fastcore fastai
         pip install -e .
-        pip install fastai2
     - name: Read all notebooks
       run: |
         nbdev_read_nbs
